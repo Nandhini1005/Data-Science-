@@ -1,0 +1,40 @@
+body {
+    background-color: #f5f7fa;
+}
+
+.title {
+    text-align: center;
+    color: #222;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.subtitle {
+    text-align: center;
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.result-box {
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 4px 20px rgba(0,0,0,0.1);
+    margin-top: 20px;
+}
+
+.result-box h2 {
+    color: #444;
+}
+
+.result-box h3 {
+    color: #ff4b4b;
+    font-size: 32px;
+}
+
+.result-box p {
+    font-size: 18px;
+    color: #555;
+}
